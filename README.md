@@ -1,10 +1,10 @@
 # UserDataApiV2
 
-##About
+## About
 
 This is an API that performs the CRUD functionalities such as Create, Read, Update and Delete. It also has other features such as Automapper, FluentValidation and JwtAuthentication.
 
-##CRUD Functonalities
+## CRUD Functonalities
 
 The endpoints for the CRUD functionalities are 
 ```
@@ -13,7 +13,7 @@ The endpoints for the CRUD functionalities are
 [x]Update - api/UserData/Edit
 [x]Delete - api/UserData/Delete
 ```
-##Authentication
+## Authentication
 
 ```
 api/Login
