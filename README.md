@@ -8,10 +8,10 @@ This is an API that performs the CRUD functionalities such as Create, Read, Upda
 
 The endpoints for the CRUD functionalities are 
 ```
-[x]Create - api/UserData/NewUser
-[x]Read - api/UserData/Index
-[x]Update - api/UserData/Edit
-[x]Delete - api/UserData/Delete
+Create - api/UserData/NewUser
+Read - api/UserData/Index
+Update - api/UserData/Edit
+Delete - api/UserData/Delete
 ```
 ## Authentication
 
